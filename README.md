@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-Ibrahim-Anter
-- 👀 I’m interested in React js
-- 🌱 I’m currently learning Full Stack MERN
+- 👀 I’m interested in MERN Stack
+- 🌱 I’m currently Full Stack MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 https://www.linkedin.com/in/ahmed-anter-78bb98213/
